@@ -202,4 +202,4 @@ Head over to Client-1's VM - Logout - Reconnect to Client-1 with the credentials
 </p>
 <br />
 
-CONGRATULATIONS🎉, you have accurently implemented Azure's Active Directory 
+CONGRATULATIONS🎉, you have accurately implemented Azure's Active Directory 
